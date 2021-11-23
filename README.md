@@ -4,7 +4,7 @@
 
 
 ## Problem statement
-Can this model really predict mobile phone prices?
+Can this model really predict rooms prices?
 
 Based on specific rooms features?
 
