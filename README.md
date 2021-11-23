@@ -1,7 +1,8 @@
 # Linear-Regression-Hotel-Pricing 
 ## Introduction
-One of the biggest applications of Web Scraping is in scraping hotel listings from various sites. This could be to monitor prices, create an aggregator, or provide better UX on top of existing hotel booking websites
-as it includes more than 1.8 million hotels and hotel apartments
+Booking.com is a Dutch online travel agency for lodging reservations & other travel products, and a subsidiary of Booking Holdings. It is headquartered in Amsterdam.[1]
+The website has over 28 million listings. The site is available in 43 language.
+
 
 ## Problem statement
 Can this model really predict rooms prices?
