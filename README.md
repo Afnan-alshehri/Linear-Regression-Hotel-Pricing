@@ -29,5 +29,5 @@ Includes libraries:
 - Numpy
 - Seaborn
 - Matplotlib
-- 
+
 ## Microsoft Office (OneDrive, Word, PowerPoint)
