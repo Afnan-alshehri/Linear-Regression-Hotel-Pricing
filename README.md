@@ -1,5 +1,5 @@
 # Linear-Regression-Hotel-Pricing 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.agoda.com%2F&psig=AOvVaw1WK0GcvvkyAu98K8sL1fer&ust=1638661642521000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOjT7r7oyPQCFQAAAAAdAAAAABAD="950">
+<img src="
 ## Introduction
 Agoda.com is a Dutch online travel agency for lodging reservations & other travel products, and a subsidiary of Booking Holdings. It is headquartered in Amsterdam.[1]
 The website has over 28 million listings.
