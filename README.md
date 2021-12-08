@@ -14,7 +14,7 @@ Can this model really predict rooms prices?
 Based on specific rooms features?
 
 ## Data Description
-The data to be tested in this project is scraped from Booking.com
+The data to be tested in this project is scraped from Agoda.com
 
 ## Tools
 Software platform: Jupyter Notebook
