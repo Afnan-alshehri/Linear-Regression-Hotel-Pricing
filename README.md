@@ -3,9 +3,7 @@
 
 
 ## Introduction
-Agoda.com is a Dutch online travel agency for lodging reservations & other travel products, and a subsidiary of Booking Holdings. It is headquartered in Amsterdam.[1]
-The website has over 28 million listings.
-The site is available in 43 language.
+Agoda.com is a Dutch online travel agency for lodging reservations & other travel products, and a subsidia
 
 
 ## Problem statement
