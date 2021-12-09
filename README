@@ -3,7 +3,9 @@
 
 
 ## Introduction
-Agoda.com is an online travel (OTA) company. Headquartered in Singapore, branches in Bangkok, Kuala Lumpur, Tokyo, Sydney, Hong Kong and Budapest with additional support from several offices in major cities in Asia and Africa.  , the Middle East, Europe and the Americas.
+ Agoda is an online booking website with thousand of rooms in all over the world and in project i will use linear regression to predict the prices of the rooms in future based 
+ the most imptrant charactreistics the affect its value in the hotel
+ 
 
 
 ## Problem statement
